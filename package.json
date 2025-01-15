@@ -1,0 +1,18 @@
+{
+  "name": "untypia-eslint-resolve-issue",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --color"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ryoppippi/unplugin-typia": "^1.1.0",
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.31.0"
+  }
+}
